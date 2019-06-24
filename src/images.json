@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "src": "images/avocado.jpeg",
+        "count": 0
+
+    },
+    {
+        "id": 2,
+        "src": "images/broccoli.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "src": "images/carrots.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "src": "images/celery.jpeg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "src": "images/eggplant.jpeg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "src": "images/garlic.jpg",
+        "count": 0
+    }, 
+    {
+        "id": 7,
+        "src": "images/onion.jpeg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "src": "images/parsnip.jpeg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "src": "images/pumpkin.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "src": "images/radish.jpeg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "src": "images/kale.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "src": "images/cucumber.jpg",
+        "count": 0
+    },
+    {
+        "id": 13,
+        "src": "images/bellpepper.jpg",
+        "count": 0
+    },
+    {
+        "id": 14,
+        "src": "images/ginger.jpg",
+        "count": 0
+    },
+    {
+        "id": 15,
+        "src": "images/mushrooms.jpg",
+        "count": 0
+    },
+    {
+        "id": 16,
+        "src": "images/okra.jpg",
+        "count": 0
+    },
+    {
+        "id": 17,
+        "src": "images/radicchio.jpg",
+        "count": 0
+    },
+    {
+        "id": 18,
+        "src": "images/romanesco.jpg",
+        "count": 0
+    }
+
+]
