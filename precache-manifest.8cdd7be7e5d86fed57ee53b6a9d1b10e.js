@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dcb5ec08688b55346b85d8f58149ccfd",
+    "revision": "ef0060baa2eb9812ae6984e673f87226",
     "url": "/vegetable-match/index.html"
   },
   {
