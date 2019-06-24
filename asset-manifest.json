@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-match/static/css/main.a3e2ebc1.chunk.css",
-    "main.js": "/react-match/static/js/main.e7c44db0.chunk.js",
-    "main.js.map": "/react-match/static/js/main.e7c44db0.chunk.js.map",
-    "runtime~main.js": "/react-match/static/js/runtime~main.6f610029.js",
-    "runtime~main.js.map": "/react-match/static/js/runtime~main.6f610029.js.map",
-    "static/css/2.510409cd.chunk.css": "/react-match/static/css/2.510409cd.chunk.css",
-    "static/js/2.3edbb587.chunk.js": "/react-match/static/js/2.3edbb587.chunk.js",
-    "static/js/2.3edbb587.chunk.js.map": "/react-match/static/js/2.3edbb587.chunk.js.map",
-    "index.html": "/react-match/index.html",
-    "precache-manifest.f4948fdf172e509decd436287edccb96.js": "/react-match/precache-manifest.f4948fdf172e509decd436287edccb96.js",
-    "service-worker.js": "/react-match/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/react-match/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.a3e2ebc1.chunk.css.map": "/react-match/static/css/main.a3e2ebc1.chunk.css.map"
+    "main.css": "/vegetable-match/static/css/main.a3e2ebc1.chunk.css",
+    "main.js": "/vegetable-match/static/js/main.92e5019b.chunk.js",
+    "main.js.map": "/vegetable-match/static/js/main.92e5019b.chunk.js.map",
+    "runtime~main.js": "/vegetable-match/static/js/runtime~main.ad5db934.js",
+    "runtime~main.js.map": "/vegetable-match/static/js/runtime~main.ad5db934.js.map",
+    "static/css/2.510409cd.chunk.css": "/vegetable-match/static/css/2.510409cd.chunk.css",
+    "static/js/2.3edbb587.chunk.js": "/vegetable-match/static/js/2.3edbb587.chunk.js",
+    "static/js/2.3edbb587.chunk.js.map": "/vegetable-match/static/js/2.3edbb587.chunk.js.map",
+    "index.html": "/vegetable-match/index.html",
+    "precache-manifest.2445c841c8f86d63cbccb38bac980e9e.js": "/vegetable-match/precache-manifest.2445c841c8f86d63cbccb38bac980e9e.js",
+    "service-worker.js": "/vegetable-match/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/vegetable-match/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.a3e2ebc1.chunk.css.map": "/vegetable-match/static/css/main.a3e2ebc1.chunk.css.map"
   }
 }
