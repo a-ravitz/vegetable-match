@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-match/static/css/main.a3e2ebc1.chunk.css",
+    "main.js": "/react-match/static/js/main.e7c44db0.chunk.js",
+    "main.js.map": "/react-match/static/js/main.e7c44db0.chunk.js.map",
+    "runtime~main.js": "/react-match/static/js/runtime~main.6f610029.js",
+    "runtime~main.js.map": "/react-match/static/js/runtime~main.6f610029.js.map",
+    "static/css/2.510409cd.chunk.css": "/react-match/static/css/2.510409cd.chunk.css",
+    "static/js/2.3edbb587.chunk.js": "/react-match/static/js/2.3edbb587.chunk.js",
+    "static/js/2.3edbb587.chunk.js.map": "/react-match/static/js/2.3edbb587.chunk.js.map",
+    "index.html": "/react-match/index.html",
+    "precache-manifest.f4948fdf172e509decd436287edccb96.js": "/react-match/precache-manifest.f4948fdf172e509decd436287edccb96.js",
+    "service-worker.js": "/react-match/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/react-match/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.a3e2ebc1.chunk.css.map": "/react-match/static/css/main.a3e2ebc1.chunk.css.map"
+  }
+}
