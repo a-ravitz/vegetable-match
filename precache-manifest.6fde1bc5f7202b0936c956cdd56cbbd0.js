@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c129ea247574a9efe65e50b18033d4e",
+    "revision": "be469aed05fc7b6aea610285b9b5c9dd",
     "url": "/vegetable-match/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vegetable-match/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "6972fcfb6d604e791f8f",
-    "url": "/vegetable-match/static/css/main.a3e2ebc1.chunk.css"
+    "revision": "8920f76a90c7affd6c24",
+    "url": "/vegetable-match/static/css/main.a28959d3.chunk.css"
   },
   {
     "revision": "5d83ecc007f52444590d",
     "url": "/vegetable-match/static/js/2.3edbb587.chunk.js"
   },
   {
-    "revision": "6972fcfb6d604e791f8f",
-    "url": "/vegetable-match/static/js/main.8b79ec11.chunk.js"
+    "revision": "8920f76a90c7affd6c24",
+    "url": "/vegetable-match/static/js/main.3be03d6e.chunk.js"
   },
   {
     "revision": "d4172d088badcac32b4d",
